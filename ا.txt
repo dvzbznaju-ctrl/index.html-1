@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>صفحة ترحيب</title>
+<style>
+body{
+    font-family: Tahoma;
+    background:#f4f6f8;
+    text-align:center;
+    margin:0;
+}
+.container{
+    background:#ffffff;
+    margin:80px auto;
+    padding:30px;
+    width:80%;
+    max-width:500px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+h1{color:#0077b6}
+a{
+    display:inline-block;
+    margin-top:15px;
+    text-decoration:none;
+    background:#0077b6;
+    color:white;
+    padding:10px 20px;
+    border-radius:5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>مرحبًا بكم</h1>
+
+    <p><strong>الاسم:</strong> عبدالله أنور عقيلي</p>
+    <p><strong>الرقم الجامعي:</strong> 202418395</p>
+
+    <p>هذا مشروع بسيط باستخدام HTML</p>
+
+    <a href="https://dvzbznaju-ctrl.github.io/index.html-1/" target="_blank">
+        الدخول إلى الموقع
+    </a>
+</div>
+
+</body>
+</html>
